@@ -23,15 +23,17 @@ Slicers
 
 ## Data cleaning and preparation 
 ‌1. Reviewing the dataset structure and column names.
-‌Checking data types
-2. ‌Change the data type of "Date" column from whole number to  Date
-‌3. Change the data type of "Annual income" column from Whole number to Currency 
-‌4. Change the data type of "Price" column from Whole number to Currency 
-‌5. Checking for missing values and duplicate records
-‌Trim the "Color" column
-‌6. Replace value in the "Color" column
+‌2. Checking data types
+3. ‌Change the data type of "Date" column from whole number to  Date
+‌4. Change the data type of "Annual income" column from Whole number to Currency 
+‌5. Change the data type of "Price" column from Whole number to Currency 
+‌6. Checking for missing values and duplicate records
+‌7. Trim the "Color" column
+‌8. Replace value in the "Color" column
 
-## Dashboard 
+## Dashboard Preview
+<img width="1339" height="606" alt="Car_All" src="https://github.com/user-attachments/assets/e7622692-5387-49a5-a627-94bcef089240" />
+
 
 
 ## Key Performance Indicators (KPIs)

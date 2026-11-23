@@ -49,8 +49,11 @@ Slicers
 
 ## Key Performance Indicators (KPIs)
 Total Revenue: $671,525,465
+
 Total Cars Sold: 23,906
+
 Average Selling Value: $28,090
+
 Growth Rate: 24%
 
 ## Key Insights

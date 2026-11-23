@@ -16,19 +16,30 @@ https://www.kaggle.com/missionjee
 
 ## Tools
 Microsoft Excel
+
 Pivot Tables 
+
 Data Model
+
 Pivot Charts
+
 Slicers
 
 ## Data cleaning and preparation 
-‌1. Reviewing the dataset structure and column names.
-‌2. Checking data types
-3. ‌Change the data type of "Date" column from whole number to  Date
-‌4. Change the data type of "Annual income" column from Whole number to Currency 
-‌5. Change the data type of "Price" column from Whole number to Currency 
+‌1. Reviewing the dataset structure and column names
+
+2. Checking data types
+
+3. Change the data type of "Date" column from whole number to  Date
+
+4. Change the data type of "Annual income" column from Whole number to Currency
+
+‌5. Change the data type of "Price" column from Whole number to Currency
+
 ‌6. Checking for missing values and duplicate records
+
 ‌7. Trim the "Color" column
+
 ‌8. Replace value in the "Color" column
 
 ## Dashboard Preview
